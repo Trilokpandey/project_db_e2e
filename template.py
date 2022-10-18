@@ -30,13 +30,16 @@ list_of_files=[
     "start_server.sh",
     "wsgi.py",
     "requirements.txt",
+    "requirements_dev.txt",
     "jenkinsfike",
     "Dockerfile",
     "setup.py",
     "setup.cfg",
     "init_setup.sh",
     "pyproject.toml",
-    "tox.ini"
+    "tox.ini",
+    "research/trails.ipynb"
+
 ]
 
 for filepath in list_of_files:
